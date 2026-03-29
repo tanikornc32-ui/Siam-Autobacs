@@ -1,0 +1,24 @@
+.background {
+  background-color: orange;
+}
+
+.text {
+  color: black;
+}
+
+.button {
+  background-color: black;
+  color: white;
+}
+
+.button:hover {
+  background-color: darkorange;
+}
+
+.link {
+  color: orange;
+}
+
+.link:hover {
+  color: black;
+}
